@@ -31,3 +31,6 @@ https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/f29f35ab09063b1c8955b8baaa2c
 
 Link to all notebooks[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ben04C/NSI1ere/cb6c7958261469220a0bb21c07b88486559e9620)
 
+permalink:
+https://mybinder.org/v2/gh/Ben04C/NSI1ere/e83590c3f1e7c525fc6d1431940e1b771f96fdb4
+
