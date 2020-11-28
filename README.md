@@ -34,3 +34,5 @@ Link to all notebooks[![Binder](https://mybinder.org/badge_logo.svg)](https://my
 permalink:
 https://mybinder.org/v2/gh/Ben04C/NSI1ere/e83590c3f1e7c525fc6d1431940e1b771f96fdb4
 
+https://mybinder.org/v2/gh/Ben04C/NSI1ere/HEAD
+
